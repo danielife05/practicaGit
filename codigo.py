@@ -1,1 +1,1 @@
-print("Hola Mundo, soy un script de Python")
+print("")
